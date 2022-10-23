@@ -1,0 +1,254 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "livingroom",
+		"player1": "bfv2",
+		"player2": "oggy pibby",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"10"
+					]
+				]
+			],
+			[
+				11101.7441860465,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						"0.4"
+					]
+				]
+			],
+			[
+				100264.534883721,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfv2lowcam"
+					]
+				]
+			],
+			[
+				100296.511627907,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				100348.837209302,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.8"
+					]
+				]
+			],
+			[
+				111497.093023256,
+				[
+					[
+						"Change Character",
+						"2",
+						"shadow jake pibby"
+					]
+				]
+			],
+			[
+				111511.627906977,
+				[
+					[
+						"Spikes",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111566.860465116,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"15"
+					]
+				]
+			],
+			[
+				122093.023255814,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.65",
+						"0.8"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"jake pibby"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfv2lowcam"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"NoSpikes",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122209.302325581,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfv2"
+					]
+				]
+			],
+			[
+				122232.558139535,
+				[
+					[
+						"Change Character",
+						"1",
+						"oggyjakepibby"
+					]
+				]
+			],
+			[
+				122790.697674419,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					],
+					[
+						"3rdstrum",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				210813.953488373,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"1.5"
+					]
+				]
+			],
+			[
+				212093.023255814,
+				[
+					[
+						"Set Cam Zoom",
+						"0.65",
+						"0.6"
+					]
+				]
+			],
+			[
+				223255.813953489,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfv2lowcam"
+					]
+				]
+			],
+			[
+				223287.790697675,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"15"
+					]
+				]
+			],
+			[
+				234401.162790698,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfv2"
+					]
+				]
+			],
+			[
+				234418.604651163,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.8"
+					]
+				]
+			],
+			[
+				245581.395348838,
+				[
+					[
+						"Hide Hud",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				251162.790697675,
+				[
+					[
+						"Spikes",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 129,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "double-disaster"
+	}
+}
