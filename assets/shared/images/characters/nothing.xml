@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nothing.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nothing0000" x="0" y="0" width="533" height="638"/>
+	<SubTexture name="nothing0001" x="0" y="0" width="533" height="638"/>
+	<SubTexture name="nothing0002" x="533" y="0" width="533" height="638"/>
+	<SubTexture name="nothing0003" x="533" y="0" width="533" height="638"/>
+	<SubTexture name="nothing0004" x="1066" y="0" width="533" height="638"/>
+	<SubTexture name="nothing0005" x="1066" y="0" width="533" height="638"/>
+	<SubTexture name="nothing0006" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0007" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0008" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0009" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0010" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0011" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0012" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0013" x="0" y="638" width="533" height="638"/>
+	<SubTexture name="nothing0014" x="0" y="638" width="533" height="638"/>
+</TextureAtlas>
