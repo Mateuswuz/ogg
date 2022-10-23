@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"apocatlypse",
+			"oggynew",
+			[
+				75,
+				153,
+				195
+			]
+		],
+		[
+			"whack!",
+			"oggynew",
+			[
+				75,
+				153,
+				195
+			]
+		],
+		[
+			"double-disaster",
+			"oggyjakeduo",
+			[
+				75,
+				153,
+				195
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "new oggy episode?1?!",
+	"weekName": "oggyepisode",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
