@@ -1,0 +1,309 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "hallway",
+		"player1": "bfv2",
+		"player2": "oggy pibby",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"15"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
+					]
+				]
+			],
+			[
+				36082.5,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				36100,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.05",
+						"1"
+					]
+				]
+			],
+			[
+				37600,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				39200,
+				[
+					[
+						"Set Cam Zoom",
+						"1.05",
+						"1"
+					],
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				40700,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				42100,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.05",
+						"1"
+					]
+				]
+			],
+			[
+				43600,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				45100,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.05",
+						"1"
+					]
+				]
+			],
+			[
+				46600,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				48200,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				49700,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				51100,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				52600,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				54100,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				55600,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				57100,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				57800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				58600,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				59800,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				60182.5,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				60200,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"healthlmao",
+						"0.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "whack!"
+	}
+}
