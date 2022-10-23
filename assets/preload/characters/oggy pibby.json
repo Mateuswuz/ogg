@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "oggy pibby left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "oggy pibby down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "oggy pibby up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "oggy pibby right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "oggy pibby idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oggy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "oggynew",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		163,
+		183
+	],
+	"camera_position": [
+		40,
+		40
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

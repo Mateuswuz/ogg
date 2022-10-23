@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jake pibby idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-66
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jake pibby left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-125
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jake pibby down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				249
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jake pibby up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				217
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jake pibby right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadow jake pibby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jakepibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		40,
+		40
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
