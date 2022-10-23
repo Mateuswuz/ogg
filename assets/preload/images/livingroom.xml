@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="livingroom.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="doodoolivingroom0000" x="0" y="0" width="3411" height="2329"/>
+	<SubTexture name="doodoolivingroom0001" x="0" y="0" width="3411" height="2329"/>
+	<SubTexture name="doodoolivingroom0002" x="3411" y="0" width="3411" height="2329"/>
+	<SubTexture name="doodoolivingroom0003" x="3411" y="0" width="3411" height="2329"/>
+	<SubTexture name="doodoolivingroom0004" x="0" y="2329" width="3411" height="2329"/>
+	<SubTexture name="doodoolivingroom0005" x="0" y="2329" width="3411" height="2329"/>
+</TextureAtlas>
