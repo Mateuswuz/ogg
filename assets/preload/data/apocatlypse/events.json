@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "outsidehouse",
+		"player1": "bfv2",
+		"player2": "shadow oggy new",
+		"player3": null,
+		"events": [
+			[
+				113.636363636364,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"6"
+					]
+				]
+			],
+			[
+				8977.27272727273,
+				[
+					[
+						"Hide Hud",
+						"2",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1.2"
+					]
+				]
+			],
+			[
+				13440.3409090909,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				13522.7272727273,
+				[
+					[
+						"Change Character",
+						"1",
+						"oggy pibby"
+					]
+				]
+			],
+			[
+				188181.818181818,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"0.7"
+					]
+				]
+			],
+			[
+				189090.909090909,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						"2.5"
+					]
+				]
+			],
+			[
+				190909.090909091,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 132,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "apocatlypse"
+	}
+}
